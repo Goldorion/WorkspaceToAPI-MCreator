@@ -1,0 +1,13 @@
+{
+  "id": "workspace2api",
+  "minversion": 202300400000,
+  "maxversion": 202300499999,
+  "weight": 0,
+  "javaplugin": "net.goldorion.workspace2api.Workspace2API",
+  "info": {
+    "name": "WorkspaceToAPI",
+    "version": "1.0-dev",
+    "description": "Export your workspace to a ready to use MCreator plugin",
+    "author": "Goldorion"
+  }
+}
